@@ -1,13 +1,12 @@
 # Problem 1
 # Write a function that returns your favorite fruit and print it.
 def favorite_fruit():
-   favorite_fruit = 'mango'
+    favorite_fruit = 'mango'
+    print(favorite_fruit)
+    return favorite_fruit
 
-
-
-
-
-
+my_fruit = favorite_fruit()
+print(my_fruit)
 
 # Problem 2
 # Write a function that takes one parameter num.
