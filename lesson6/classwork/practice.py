@@ -1,7 +1,7 @@
 # Problem 1
 # Write a function that returns your favorite fruit and print it.
 def favorite_fruit():
-
+   favorite_fruit = 'mango'
 
 
 
