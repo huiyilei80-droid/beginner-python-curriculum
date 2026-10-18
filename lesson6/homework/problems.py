@@ -1,6 +1,9 @@
 # Problem 1
 # Write a function that returns the number 42 and print the result.
-
+def num():
+num = 42
+  return num
+print (num)
 
 
 # Problem 2
