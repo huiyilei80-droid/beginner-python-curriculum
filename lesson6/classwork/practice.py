@@ -1,6 +1,6 @@
 # Problem 1
 # Write a function that returns your favorite fruit and print it.
-   favorite_fruit():
+def favorite_fruit():
 
 
 
